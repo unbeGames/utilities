@@ -1,0 +1,19 @@
+{
+  "name": "com.unbegames.utilities",
+  "version": "1.0.0",
+  "displayName": "Unbegames Utilities",
+  "description": "Helper Classes and utilities",
+  "unity": "2020.1",
+  "dependencies": {
+		"com.unity.mathematics": "1.2.1"
+	},
+  "keywords": [
+    "utilities"
+  ],
+  "author": {
+    "name": "unbeGames",
+    "email": "arugin@unbegames.com",
+    "url": "https://store.steampowered.com/publisher/unbegames"
+  },
+  "type": "library"
+}

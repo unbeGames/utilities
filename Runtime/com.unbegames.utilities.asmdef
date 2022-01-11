@@ -1,0 +1,16 @@
+{
+    "name": "com.unbegames.utilities",
+    "rootNamespace": "Unbegames.Services",
+    "references": [
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,14 +1,14 @@
 {
   "name": "com.unbegames.utilities",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Unbegames Utilities",
-  "description": "Helper Classes and utilities",
+  "description": "Helper classes and utilities for game development in Unity",
   "unity": "2020.1",
   "dependencies": {
 		"com.unity.mathematics": "1.2.1"
 	},
   "keywords": [
-    "utilities"
+    "utilities", "helpers"
   ],
   "author": {
     "name": "unbeGames",

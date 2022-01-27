@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Unbegames.Services {
+namespace Unbegames.Services.Pool {
   /// <summary>                              
   /// Generic object pool.
   /// </summary>

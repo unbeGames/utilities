@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Unbegames.Services {
+namespace Unbegames.Services.Pool {
   /// <summary>
   /// Queue Pool.
   /// </summary>

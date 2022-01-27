@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Unbegames.Services {
+namespace Unbegames.Services.Pool {
   /// <summary>
   /// HashSet Pool.
   /// </summary>
